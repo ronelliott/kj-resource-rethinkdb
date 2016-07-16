@@ -9,7 +9,7 @@
     "framework",
     "resource",
     "crud",
-    "postgres"
+    "rethink"
   ],
   "scripts": {
     "coverage:upload": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
