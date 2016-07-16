@@ -1,6 +1,6 @@
 {
   "name": "kj-resource-rethinkdb",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Rethinkdb resource creation for the kj webapp framework.",
   "author": "Ron Elliott <ronaldbelliott@gmail.com>",
   "license": "ISC",
